@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project explores how business intelligence and operational analytics can support decision-making in logistics operations. Developed as a capstone project during a three-month Data Analytics program at TS Academy, the report analyzes interconnected operational data across revenue, routes, fleet utilization, maintenance, deliveries, and driver safety.
+This project explores how business intelligence and operational analytics can support decision-making in logistics operations. This report analyzes interconnected operational data across revenue, routes, fleet utilization, maintenance, deliveries, and driver safety.
 
 ## Business Questions
 
@@ -52,9 +52,6 @@ These findings describe patterns in the available dataset and do not, by themsel
 
 Dashboard screenshots are included in this repository. The Power BI report file and supporting documentation may be provided where file-size limits and dataset-sharing permissions allow.
 
-## Acknowledgment
-
-Developed as a capstone project during a three-month Data Analytics program at TS Academy. Thank you to the academy and instructor Ezekiel for their guidance throughout the program.
 
 ## Disclaimer
 
